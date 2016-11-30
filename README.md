@@ -1,3 +1,3 @@
-Test de l'API OpenData (en cours de dÈveloppement) de la STIB.
+Test de l'API OpenData (en cours de d√©veloppement) de la STIB.
 
-AccËs gracieusement offert par pendant le week-end du #MobiGeek, hackathon organisÈ par [MolenGeek](http://molengeek.com/) en Septembre 2016.
+Acc√®s √† leur API en cours de d√©veloppement gracieusement offert par la STIB pendant le week-end du #MobiGeek, hackathon organis√© par [MolenGeek](http://molengeek.com/) en Septembre 2016.
